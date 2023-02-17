@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A C program that prints exactly and piece of art is useful
- *
+ * main - Entry
  * Return: 1
  */
 int main(void)
