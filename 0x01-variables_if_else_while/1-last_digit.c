@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - A C program that prints last digit of a number
- *
+ * main - Entry point
+ * Description: checks on the last digit of the assigned var
  * Return: 0
  */
 
